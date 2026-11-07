@@ -1,25 +1,6 @@
-<div align="center">
+### Mengchao Tian
 
-# Mengchao Tian
+Third-year Computer Science undergraduate at Northeastern University (Shenyang, China). Interested in **inference systems**, **operators & kernels**, and **AI compilers**.
 
-**Inference Systems · Operators & Kernels · AI Compilers**
-
-[derricktian@qq.com](mailto:derricktian@qq.com)
-
-</div>
-
-## About
-
-I'm a third-year Computer Science undergraduate at Northeastern University in Shenyang, China.
-
-## Interests
-
-- **Inference Systems**
-- **Operators & Kernels**
-- **AI Compilers**
-
-## Experience
-
-**AI Compiler Intern**<br>
-Huawei 2012 Laboratories · Compiler Department<br>
-June–October 2026
+- **Experience:** AI Compiler Intern at Huawei 2012 Laboratories, Compiler Department (June–October 2026)
+- **Email:** [derricktian@qq.com](mailto:derricktian@qq.com)
